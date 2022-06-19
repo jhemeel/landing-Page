@@ -38,7 +38,7 @@ p{
 }
 
 header{
-    background: url('images/bg-hero-desktop.svg') no-repeat var(--secondary-1);
+    background: url('./bg-hero-desktop.svg') no-repeat var(--secondary-1);
     padding: 1rem;
 }
 
